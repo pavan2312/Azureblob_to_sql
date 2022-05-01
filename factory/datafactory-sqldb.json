@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-sqldb",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e55d1ca-0c9f-4e26-9b61-90eb4f50e193",
+		"tenantId": "4c7b3104-a668-40b3-ac14-16cd64e8016e"
+	}
+}
